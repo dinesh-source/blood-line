@@ -1,0 +1,29 @@
+.submit:hover{
+    background-color: #ff385c;
+    color: white;
+}
+
+.card-container{
+    /* margin-left: -10px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 230px;
+    width: 230px;
+}
+
+.user-request-btn{
+    background-color: #88da1a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 15px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 600;
+
+}
